@@ -19,6 +19,4 @@ We will, we will rock you, alright, louder!
 We will, we will rock you, one more time
 We will, we will rock you
 Yeah
-
-
-feature text.
+Song is finished.
